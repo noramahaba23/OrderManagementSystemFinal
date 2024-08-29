@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    ports:
+      - "3000:80"  # Map port 80 in the container to port 3000 on the host
+    depends_on:
+      - redis
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - REDIS_CONNECTION_STRING=redis:6379
+      - ASPNETCORE_URLS=http://+:80
+  
+  redis:
+    image: "redis:latest"
+    ports:
+      - "6379:6379"
+    command: ["redis-server", "--appendonly", "yes"]

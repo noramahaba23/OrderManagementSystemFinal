@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SALAH\\source\\repos\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\send\\send.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\send\\send.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\api\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\api\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\product.db||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\product.db||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\rabbitmqbackgroundservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\rabbitmqbackgroundservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\microsoft.aspnetcore.signalr.hub\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\microsoft.aspnetcore.signalr.hub\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\rabbitmqbackgroundservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\rabbitmqbackgroundservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\rabbitmqbackgroundservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\rabbitmqbackgroundservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\data\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\data\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|c:\\users\\salah\\source\\repos\\api\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647B603-BDE4-49AC-A837-C55022159A04}|API\\API.csproj|solutionrelative:api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.db",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Product.db",
+              "RelativeDocumentMoniker": "API\\Product.db",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Product.db",
+              "RelativeToolTip": "API\\Product.db",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPdVNLT1NBGD3a23gJKaJUwsIEUaMoL2NsGyqxoCYEDRuKi0ZW3WHkL0D8BWqkJsLKQlsX9bGrNhqqRKRutCVp1BhFEiUxVyVx0Ud67/DN3EcvsZ7ck2/uN9/MnDkzswsGYrEY0xgD0zQwippGbabBzPEoORxb5Upl6Nrk5HsxiBeaWFhcZKqqWqxyVmuMx\u002BOsUCiwufn5P3dmI6eMYdhtRLEKh0pRVTlVQZpIkMPtduOs398sSdKSSBBqE5hqKJBovW1B/49Go0ilUihXys0iQZCMKPbMYQ7OrmaRza7C6/PBRxwbC4oe8gGzkYio4bApIPOM9v3oAppa23DpSgiyuw13781ZfRwa1ZqwJuAu86p8Lg//uQA6D7cjt/IKPUcOof/CMNbyearSp6HjEpHjHxMzmSU0NjTgUTKJUCiEJw\u002BT2OtyUT5DKkXJjtPbqYAQGBxEsVhEcHwciUQCl0dHsf5tA1W5CS\u002BWV1AqlcivOlvQZTH09vTi9fJLfF7fgGcggHcfvkBpbEc4HIay/zje5tb\u002Bp0A3kXPi6gSUzR94/CCON3Qaw8da8PzrX4x0HsD3n7/rm1i7BxSJHq8X16em4OnrRvrTL1zscOHpRwVn\u002Brrqmyjugf4JmjjdfQL7lALSz9Locm7hYGuL5ReHTUFNlgAVcVV7ZBlDA/0IjpzHyaMdkOnfXmvzgN9BenGSQ6dTgrMORa1tC9ZzvnnrNm2NjKROvjI/KhGNnFiA2vozZ7gxM01jgW0oG0\u002BFgH6cagAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-27T20:12:23.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\RabbitMQBackgroundService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\RabbitMQBackgroundService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\RabbitMQBackgroundService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\RabbitMQBackgroundService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T20:12:09.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Microsoft.AspNetCore.SignalR.Hub\\Class.cs",
+              "RelativeDocumentMoniker": "API\\Microsoft.AspNetCore.SignalR.Hub\\Class.cs",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Microsoft.AspNetCore.SignalR.Hub\\Class.cs",
+              "RelativeToolTip": "API\\Microsoft.AspNetCore.SignalR.Hub\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:10:31.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\RabbitMQBackgroundService\\Worker.cs",
+              "RelativeDocumentMoniker": "API\\RabbitMQBackgroundService\\Worker.cs",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\RabbitMQBackgroundService\\Worker.cs",
+              "RelativeToolTip": "API\\RabbitMQBackgroundService\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:10:18.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Send.cs",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Send\\Send.cs",
+              "RelativeDocumentMoniker": "API\\Send\\Send.cs",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Send\\Send.cs",
+              "RelativeToolTip": "API\\Send\\Send.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:09:53.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\RabbitMQBackgroundService\\Program.cs",
+              "RelativeDocumentMoniker": "API\\RabbitMQBackgroundService\\Program.cs",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\RabbitMQBackgroundService\\Program.cs",
+              "RelativeToolTip": "API\\RabbitMQBackgroundService\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:09:42.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Data\\Class.cs",
+              "RelativeDocumentMoniker": "API\\Data\\Class.cs",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Data\\Class.cs",
+              "RelativeToolTip": "API\\Data\\Class.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:09:19.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API.http",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-27T20:08:44.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\WeatherForecast.cs",
+              "RelativeToolTip": "API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:08:35.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:07:38.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\API\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API\\API\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\API\\WeatherForecastController.cs",
+              "RelativeToolTip": "API\\API\\WeatherForecastController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:07:34.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T18:14:55.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "API\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\docker-compose.yml",
+              "RelativeToolTip": "API\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-27T17:58:35.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Dockerfile",
+              "RelativeDocumentMoniker": "API\\Dockerfile",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Dockerfile",
+              "RelativeToolTip": "API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-27T17:58:27.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\SALAH\\source\\repos\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAawB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:54:46.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
